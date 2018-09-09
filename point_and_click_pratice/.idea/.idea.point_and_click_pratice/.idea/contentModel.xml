@@ -12,6 +12,9 @@
           <e p="GameManager" t="Include">
             <e p="ScreenManager.cs" t="Include" />
           </e>
+          <e p="PlayerManager" t="Include">
+            <e p="PlayerMovimentation.cs" t="Include" />
+          </e>
         </e>
         <e p="Standard Assets" t="Include">
           <e p="CrossPlatformInput" t="Include">
