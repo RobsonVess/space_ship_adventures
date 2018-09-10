@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87783f85-3818-4c96-bfe7-96a8f61efaee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.point_and_click_pratice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.point_and_click_pratice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LevelBtn.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LevelBtn.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/OnGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/OnGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs" afterDir="false" />
-    </list>
+    <list default="true" id="87783f85-3818-4c96-bfe7-96a8f61efaee" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,12 +239,12 @@
       <workItem from="1536524303225" duration="2608000" />
       <workItem from="1536538016668" duration="1283000" />
       <workItem from="1536583656988" duration="5401000" />
-      <workItem from="1536591578987" duration="1213000" />
+      <workItem from="1536591578987" duration="1505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13243000" />
+    <option name="totallyTimeSpent" value="13535000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
