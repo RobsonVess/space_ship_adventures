@@ -23,7 +23,10 @@ public class ScreenManager : MonoBehaviour {
 			screens[value].SetActive(true);
 		}
 	}
-	
+
+	private void ChangeScreen(string value) {
+		
+	}
 }
 [System.Serializable]
 public struct ScreenSetUp {
