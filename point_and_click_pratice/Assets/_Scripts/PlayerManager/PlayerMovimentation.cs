@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using UnityEngine.Serialization;
-using UnityStandardAssets.CrossPlatformInput;
 
 
 public class PlayerMovimentation : MonoBehaviour {
@@ -11,7 +10,7 @@ public class PlayerMovimentation : MonoBehaviour {
 	}
 
 	private void Movimentation() {
-		transform.Translate(CrossPlatformInputManager.GetAxis("Horizontal")*movimentationSpeed*Time.deltaTime,CrossPlatformInputManager.GetAxis("Vertical")*movimentationSpeed*Time.deltaTime,0);
+//		transform.Translate(CrossPlatformInputManager.GetAxis("Horizontal")*movimentationSpeed*Time.deltaTime,CrossPlatformInputManager.GetAxis("Vertical")*movimentationSpeed*Time.deltaTime,0);
 		ClampPlayerOnScreen();
 	}
 	private void ClampPlayerOnScreen() {
