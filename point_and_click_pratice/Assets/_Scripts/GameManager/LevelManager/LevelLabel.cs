@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System;
+using System.Security.Cryptography;
+using UnityEngine;
 using UnityEngine.UI;
 public class LevelLabel : MonoBehaviour
 {
@@ -6,10 +8,16 @@ public class LevelLabel : MonoBehaviour
 	public Text labelTitle, buttonTitle;
 	public Button button;
 
-	public void LabelSetup(string labelTitle = "Empty", string buttonTitle = "Go!")
+	private String LabelTitle
 	{
-		this.labelTitle.text = labelTitle;
-		this.buttonTitle.text = buttonTitle;
+		get { return labelTitle.text; }
+		set { labelTitle.text = value; }
 	}
+
+	public void SetupLabel(string value = "empty")
+	{
+		LabelTitle = value;
+	}
+	
 	
 }
