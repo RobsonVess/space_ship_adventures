@@ -4,78 +4,9 @@
     <list default="true" id="87783f85-3818-4c96-bfe7-96a8f61efaee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.point_and_click_pratice/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.point_and_click_pratice/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.point_and_click_pratice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.point_and_click_pratice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/LevelBtn.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/LevelBtn.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/OnGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/OnGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scripts/PlayerManager/PlayerMovimentation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/PlayerManager/PlayerMovimentation.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,30 +51,31 @@
     <session id="-873695386">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="990" />
+          <entry key="cs" value="1152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="990" />
+          <entry key="C#" value="1152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="6" />
+          <entry key="cs" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="6" />
+          <entry key="C#" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -151,11 +83,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/ScreenManager.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="608">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <marker date="1536585012021" expanded="false" signature="6:78" ph="..." />
                 <marker date="1536585012021" expanded="true" signature="123:781" ph="{...}" />
@@ -172,17 +104,40 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Controls/VirtualJoystick.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <marker date="1536665724787" expanded="true" signature="6:72" ph="..." />
+                <marker date="1536665724787" expanded="true" signature="173:1447" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="284:324" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="292:321" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="374:391" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="433:1039" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="584:1036" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="1089:1185" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="1215:1317" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="1244:1275" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="1344:1444" ph="{...}" />
+                <marker date="1536665724787" expanded="true" signature="1373:1404" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerManager/PlayerMovimentation.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="304">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <marker date="1536661975576" expanded="true" signature="6:51" ph="..." />
-                <marker date="1536661975576" expanded="true" signature="103:607" ph="{...}" />
-                <marker date="1536661975576" expanded="true" signature="156:180" ph="{...}" />
-                <marker date="1536661975576" expanded="true" signature="212:431" ph="{...}" />
-                <marker date="1536661975576" expanded="true" signature="468:605" ph="{...}" />
+                <marker date="1536666707033" expanded="false" signature="6:51" ph="..." />
+                <marker date="1536666707033" expanded="true" signature="103:574" ph="{...}" />
+                <marker date="1536666707033" expanded="true" signature="183:207" ph="{...}" />
+                <marker date="1536666707033" expanded="true" signature="238:398" ph="{...}" />
+                <marker date="1536666707033" expanded="true" signature="435:572" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -191,13 +146,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state relative-caret-position="320">
+              <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
               <folding>
-                <marker date="1536592216568" expanded="false" signature="6:78" ph="..." />
-                <marker date="1536592216568" expanded="true" signature="121:314" ph="{...}" />
-                <marker date="1536592216568" expanded="true" signature="180:198" ph="{...}" />
-                <marker date="1536592216568" expanded="true" signature="260:312" ph="{...}" />
+                <marker date="1536667119216" expanded="false" signature="6:78" ph="..." />
+                <marker date="1536667119216" expanded="true" signature="121:479" ph="{...}" />
+                <marker date="1536667119216" expanded="true" signature="215:233" ph="{...}" />
+                <marker date="1536667119216" expanded="true" signature="295:347" ph="{...}" />
+                <marker date="1536667119216" expanded="true" signature="374:477" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -223,6 +179,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Controls/VirtualJoystick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/ScreenManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -234,10 +191,12 @@
         <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerManager/Movimentation.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/GameManager/MenuManager.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/GameManager/ScreenManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Controls/VJHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Controls/VirtualJoystick.cs" />
         <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerManager/PlayerMovimentation.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs" />
       </list>
     </option>
   </component>
@@ -259,12 +218,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -317,12 +276,13 @@
       <workItem from="1536538016668" duration="1283000" />
       <workItem from="1536583656988" duration="5401000" />
       <workItem from="1536591578987" duration="1505000" />
-      <workItem from="1536660689585" duration="1896000" />
+      <workItem from="1536660689585" duration="3358000" />
+      <workItem from="1536665660637" duration="2177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15431000" />
+    <option name="totallyTimeSpent" value="19070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,6 +343,30 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerManager/Movimentation.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Controls/VJHandler.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/ScreenManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <marker date="1536585012021" expanded="false" signature="6:78" ph="..." />
+            <marker date="1536585012021" expanded="true" signature="123:781" ph="{...}" />
+            <marker date="1536585012021" expanded="true" signature="300:345" ph="{...}" />
+            <marker date="1536585012021" expanded="true" signature="388:504" ph="{...}" />
+            <marker date="1536585012021" expanded="true" signature="429:478" ph="{...}" />
+            <marker date="1536585012021" expanded="true" signature="546:779" ph="{...}" />
+            <marker date="1536585012021" expanded="true" signature="582:727" ph="{...}" />
+            <marker date="1536585012021" expanded="true" signature="647:688" ph="{...}" />
+            <marker date="1536585012021" expanded="true" signature="734:776" ph="{...}" />
+            <marker date="1536585012021" expanded="true" signature="830:881" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/MenuManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -395,76 +379,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-          <folding>
-            <marker date="1536592216568" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536592216568" expanded="true" signature="121:314" ph="{...}" />
-            <marker date="1536592216568" expanded="true" signature="180:198" ph="{...}" />
-            <marker date="1536592216568" expanded="true" signature="260:312" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1920">
-          <caret line="74" column="23" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PlayerManager/PlayerMovimentation.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state relative-caret-position="304">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <marker date="1536661975576" expanded="true" signature="6:51" ph="..." />
-            <marker date="1536661975576" expanded="true" signature="103:607" ph="{...}" />
-            <marker date="1536661975576" expanded="true" signature="156:180" ph="{...}" />
-            <marker date="1536661975576" expanded="true" signature="212:431" ph="{...}" />
-            <marker date="1536661975576" expanded="true" signature="468:605" ph="{...}" />
+            <marker date="1536666707033" expanded="false" signature="6:51" ph="..." />
+            <marker date="1536666707033" expanded="true" signature="103:574" ph="{...}" />
+            <marker date="1536666707033" expanded="true" signature="183:207" ph="{...}" />
+            <marker date="1536666707033" expanded="true" signature="238:398" ph="{...}" />
+            <marker date="1536666707033" expanded="true" signature="435:572" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/ScreenManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager/LevelManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="320">
+          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
           <folding>
-            <marker date="1536585012021" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536585012021" expanded="true" signature="123:781" ph="{...}" />
-            <marker date="1536585012021" expanded="true" signature="300:345" ph="{...}" />
-            <marker date="1536585012021" expanded="true" signature="388:504" ph="{...}" />
-            <marker date="1536585012021" expanded="true" signature="429:478" ph="{...}" />
-            <marker date="1536585012021" expanded="true" signature="546:779" ph="{...}" />
-            <marker date="1536585012021" expanded="true" signature="582:727" ph="{...}" />
-            <marker date="1536585012021" expanded="true" signature="647:688" ph="{...}" />
-            <marker date="1536585012021" expanded="true" signature="734:776" ph="{...}" />
-            <marker date="1536585012021" expanded="true" signature="830:881" ph="{...}" />
+            <marker date="1536667119216" expanded="false" signature="6:78" ph="..." />
+            <marker date="1536667119216" expanded="true" signature="121:479" ph="{...}" />
+            <marker date="1536667119216" expanded="true" signature="215:233" ph="{...}" />
+            <marker date="1536667119216" expanded="true" signature="295:347" ph="{...}" />
+            <marker date="1536667119216" expanded="true" signature="374:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/_Scripts/Controls/VirtualJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1536665724787" expanded="true" signature="6:72" ph="..." />
+            <marker date="1536665724787" expanded="true" signature="173:1447" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="284:324" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="292:321" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="374:391" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="433:1039" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="584:1036" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="1089:1185" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="1215:1317" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="1244:1275" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="1344:1444" ph="{...}" />
+            <marker date="1536665724787" expanded="true" signature="1373:1404" ph="{...}" />
           </folding>
         </state>
       </provider>
