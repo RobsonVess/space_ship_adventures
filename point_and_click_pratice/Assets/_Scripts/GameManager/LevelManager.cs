@@ -19,7 +19,8 @@ public class LevelManager : MonoBehaviour
 
 	public void DebugLabel()
 	{
-	    GameObject buttons = Instantiate(button);
+	    GameObject buttons = Instantiate(button, content.transform.position, content.transform.rotation);
 		buttons.transform.SetParent(content.transform);
+		buttons.transform.localScale = new Vector3(1, 1, 1);
 	}
 }
