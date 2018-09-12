@@ -24,8 +24,8 @@
             <e p="ScreenManager.cs" t="Include" />
           </e>
           <e p="PlayerManager" t="Include">
+            <e p="PlayerManager.cs" t="Include" />
             <e p="PlayerMovimentation.cs" t="Include" />
-            <e p="PlayerStatus.cs" t="Include" />
           </e>
         </e>
         <e p="Standard Assets" t="Include">

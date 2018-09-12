@@ -25,7 +25,7 @@ public class PlayerMovimentation : MonoBehaviour {
 	private void RotationLogic()
 	{	
 //		Debug.Log(vj.Horizontal());
-		Debug.Log(vj.isMoving);
+//		Debug.Log(vj.isMoving);
 		if (vj.isMoving)
 		{
 			if (meshHolder.transform.rotation.x <= 25 && meshHolder.transform.rotation.x >= -25)
