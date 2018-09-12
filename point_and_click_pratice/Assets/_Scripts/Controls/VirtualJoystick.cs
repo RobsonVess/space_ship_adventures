@@ -6,6 +6,7 @@ public class VirtualJoystick : MonoBehaviour, IPointerDownHandler, IDragHandler,
 
 	public Image ImgBg;
 	public Image ImgJoystick;
+	public bool isMoving = false;
 
 	private Vector3 _inputVector;
 	public Vector3 InputVector {
@@ -44,8 +45,14 @@ public class VirtualJoystick : MonoBehaviour, IPointerDownHandler, IDragHandler,
 
 
 	public float Horizontal() {
-		if (_inputVector.x != 0) {
+		if (_inputVector.x != 0)
+		{
+			IsMoving();
 			return _inputVector.x;
+		}
+		else
+		{
+			IsMoving(false);
 		}
 
 		return Input.GetAxis("Horizontal");
@@ -53,10 +60,18 @@ public class VirtualJoystick : MonoBehaviour, IPointerDownHandler, IDragHandler,
 
 	public float Vertical() {
 		if (_inputVector.z != 0) {
+			IsMoving();
 			return _inputVector.z;
+		}else
+		{
+			IsMoving(false);
 		}
 
 		return Input.GetAxis("Vertical");
 	}
 
+	private void IsMoving(bool isMoving = true)
+	{
+		this.isMoving = isMoving;
+	}
 }

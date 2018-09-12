@@ -15,12 +15,17 @@
             <e p="LevelManager" t="Include">
               <e p="LevelLabel.cs" t="Include" />
               <e p="LevelManager.cs" t="Include" />
+              <e p="Spawner.cs" t="Include" />
             </e>
             <e p="MenuManager.cs" t="Include" />
+            <e p="SaveManager" t="Include">
+              <e p="SpaceShip.cs" t="Include" />
+            </e>
             <e p="ScreenManager.cs" t="Include" />
           </e>
           <e p="PlayerManager" t="Include">
             <e p="PlayerMovimentation.cs" t="Include" />
+            <e p="PlayerStatus.cs" t="Include" />
           </e>
         </e>
         <e p="Standard Assets" t="Include">
