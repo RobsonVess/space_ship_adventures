@@ -19,6 +19,7 @@
             </e>
             <e p="MenuManager.cs" t="Include" />
             <e p="SaveManager" t="Include">
+              <e p="SaveLabel.cs" t="Include" />
               <e p="SpaceShip.cs" t="Include" />
             </e>
             <e p="ScreenManager.cs" t="Include" />

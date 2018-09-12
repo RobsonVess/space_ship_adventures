@@ -11,6 +11,7 @@ public class ScreenManager : MonoBehaviour {
 	void Awake () {
 		i = this;
 		SetUpScreens("Main Menu");
+		Debug.Log(System.DateTime.Now);
 	}
 
 	private void SetUpScreens(string value) {
