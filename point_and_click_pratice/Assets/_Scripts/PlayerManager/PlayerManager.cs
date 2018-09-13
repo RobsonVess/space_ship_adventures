@@ -15,7 +15,7 @@ public class PlayerManager : MonoBehaviour
 	public InputField inputName;
 	public Text placeHolder;
 	public string savePath;
-	private int ActiveSave;
+	public int ActiveSave;
 	
 	public static PlayerManager i;
 	
@@ -25,14 +25,9 @@ public class PlayerManager : MonoBehaviour
 		Debug.Log(savePath);
 	}
 
-	
-
-	public List<GameObject> labels;
 	// Save and Load functions
 	
-	public Save save = new Save();
-	
-	
+	public Save save = new Save();	
 	
 	public void OpenCreateSaveScreen()
 	{
@@ -89,6 +84,7 @@ public class PlayerManager : MonoBehaviour
 	}
 
 	private void PopulateSaveSelector() {
+		int i = 0;
 		foreach (GameObject gameObject in labelsInContent) {
 			Destroy(gameObject);
 		}
@@ -97,9 +93,11 @@ public class PlayerManager : MonoBehaviour
 			GameObject instance = Instantiate(saveLabel, saveContent.transform.position, saveContent.transform.rotation);
 			instance.GetComponent<SaveLabel>().name.text = save.playerName;
 			instance.GetComponent<SaveLabel>().dateAndOur.text = save.dateAndOur;
+			instance.GetComponent<SaveLabel>().id = i;
 			instance.transform.SetParent(saveContent.transform);
 			instance.transform.localScale = new Vector3(1, 1, 1);
 			labelsInContent.Add(instance);
+			i++;
 		}
 	}
 	
