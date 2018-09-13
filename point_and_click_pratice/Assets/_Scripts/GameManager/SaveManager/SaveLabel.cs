@@ -8,5 +8,5 @@ public class SaveLabel : MonoBehaviour
 
 	public Text name;
 	public Text dateAndOur;
-
+	public int id;
 }

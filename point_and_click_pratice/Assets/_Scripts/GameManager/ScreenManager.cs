@@ -11,7 +11,7 @@ public class ScreenManager : MonoBehaviour {
 	void Awake () {
 		i = this;
 		SetUpScreens("Main Menu");
-		Debug.Log(System.DateTime.Now);
+		//Debug.Log(System.DateTime.Now);
 	}
 
 	private void SetUpScreens(string value) {
@@ -25,6 +25,12 @@ public class ScreenManager : MonoBehaviour {
 		if (screens.ContainsKey(value)) {
 			foreach (KeyValuePair<string,GameObject> screen in screens) {
 				screen.Value.SetActive(false);
+			}
+
+			switch (value) {
+					case "Save Manager":
+						PlayerManager.i.HaveSave();
+						break;					
 			}
 			screens[value].SetActive(true);
 		}
