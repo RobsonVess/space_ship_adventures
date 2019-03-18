@@ -1,1 +1,1 @@
-# point_and_click
+# A space ship game
